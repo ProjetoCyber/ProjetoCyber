@@ -23,6 +23,8 @@ Olá! Este é o repositório oficial do Projeto Cyber, uma equipe dedicada a tec
     </a>        
     <a href="https://www.instagram.com/projeto.cyber" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile">
+     <a href="https://www.tiktok.com/@projeto.cyber" target="_blank">
+        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Profile">
     </a>          
 </div>
 
@@ -33,7 +35,6 @@ Se você gosta do nosso trabalho e quer apoiar o Projeto Cyber, considere fazer 
 <a href="https://www.paypal.com/donate/?hosted_button_id=BYAVMMDUSZ83A" target="_blank">
     <img src="https://img.shields.io/badge/Doar-28A745?style=for-the-badge&logo=paypal&logoColor=white" alt="Doar">
 </a>
-
 <br><br>
 ## Contato
 Se tiver alguma dúvida ou sugestão, entre em contato conosco pelo e-mail: [projeto.cyber@proton.me](mailto:projeto.cyber@proton.me)
