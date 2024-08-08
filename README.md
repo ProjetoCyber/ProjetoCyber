@@ -32,8 +32,10 @@ Olá! Este é o repositório oficial do Projeto Cyber, uma equipe dedicada a tec
 ## Contribua com o Projeto Cyber
 Se você gosta do nosso trabalho e quer apoiar o Projeto Cyber, considere fazer uma doação. Sua contribuição é muito importante para mantermos nossos projetos e iniciativas.<br>
 <br>
+Chave PIX: **17b6247b-c7de-486f-a3f9-e9f4c2c55135**
+<br><br>
 <a href="https://www.paypal.com/donate/?hosted_button_id=BYAVMMDUSZ83A" target="_blank">
-    <img src="https://img.shields.io/badge/Doar-28A745?style=for-the-badge&logo=paypal&logoColor=white" alt="Doar">
+    Apoie-nos via <strong>PayPal</strong>
 </a>
 <br><br>
 ## Contato
