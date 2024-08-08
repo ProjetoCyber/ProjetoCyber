@@ -35,7 +35,8 @@ Se você gosta do nosso trabalho e quer apoiar o Projeto Cyber, considere fazer 
 Chave PIX: **17b6247b-c7de-486f-a3f9-e9f4c2c55135**
 <br><br>
 <a href="https://www.paypal.com/donate/?hosted_button_id=BYAVMMDUSZ83A" target="_blank">
-    Apoie-nos via <strong>PayPal</strong>
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Badge">
+</a>
 </a>
 <br><br>
 ## Contato
